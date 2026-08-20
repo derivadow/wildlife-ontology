@@ -1,5 +1,7 @@
 # BBC Wildlife Ontology
 
+![BBC Wildlife Ontology documentation](wo.png)
+
 This repository is an independent archival copy of the **BBC Wildlife Ontology**, originally developed for the BBC Wildlife Finder project.
 
 The ontology is a lightweight vocabulary for publishing data about biological taxa, including their taxonomy, habitats, adaptations, behaviour and conservation status. It was designed to support Linked Data published by BBC Wildlife Finder while remaining interoperable with more specialised biological vocabularies.
@@ -29,13 +31,14 @@ The ontology is also catalogued by Linked Open Vocabularies:
 ## Files
 
 - [`wildlife-ontology-1.1.ttl`](wildlife-ontology-1.1.ttl) — the preserved version 1.1 ontology in Turtle.
+- [`wo.png`](wo.png) — an image of the original BBC Wildlife Ontology documentation.
 - [`LICENSE.md`](LICENSE.md) — copyright, licence and archival provenance information.
 
 ## Provenance
 
 The version preserved here identifies itself as Wildlife Ontology 1.1, with a creation date of 4 January 2010 and version date of 18 December 2013. It names Tom Scott and Leigh Dodds as its creators and records the original BBC internal canonical location.
 
-This copy was recovered from public preservation copies of the BBC ontology, including the IPTC mirror and independent GitHub archives. No semantic changes have been made.
+The ontology file preserved here matches public archival copies of version 1.1, including independent GitHub preservation copies. No semantic changes have been made.
 
 For contemporary context, the ontology was announced to the Linking Open Data community in February 2010 alongside the BBC Wildlife Finder RDF publication.
 
